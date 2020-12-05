@@ -31,7 +31,8 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Contact
-  ${data.github}(https://gitub.com/${data.github})
+  (https://gitub.com/${data.github})
+
   ${data.email}
 
 `;
