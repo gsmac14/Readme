@@ -4,9 +4,9 @@ function generateMarkdown(data) {
   # ${data.title}
   
   ## Table of Contents
-  * [Description](#installation)
-  * Installation
-  * Usage
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage]
   * Contributing
   * Test
   * Liscense

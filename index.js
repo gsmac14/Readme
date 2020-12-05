@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./generateMarkdown");
 const fs = require('fs');
 const path = require('path');
 
