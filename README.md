@@ -29,6 +29,7 @@
   MIT
 
   ## Contact
-  (https://gitub.com/gsmac14)
+  https://gitub.com/gsmac14
+  
   gsmac1224@gmail.com
 
