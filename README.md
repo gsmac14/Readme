@@ -29,7 +29,7 @@
   MIT
 
   ## Contact
-  https://gitub.com/gsmac14
-  
-  gsmac1224@gmail.com
+  GitHub: https://gitub.com/gsmac14
+
+  Email: gsmac1224@gmail.com
 

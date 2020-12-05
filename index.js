@@ -29,7 +29,7 @@ const questions = [
         {
           type: 'input',
           name: 'contribution',
-          message: 'What are the contribution guidelines?',
+          message: 'Who are the contributors',
         },
         {
           type: 'input',
@@ -52,12 +52,7 @@ const questions = [
             name: 'email',
             message: 'What is your email address?',
           },
-        //   {
-        //     type: 'list',
-        //     name: 'contents',
-        //     message: 'Choose a section.',
-        //     choices: ['description', 'installation', 'usage', 'contribution', 'test', 'license'],
-        //   },
+
 
 ];
 
