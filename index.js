@@ -29,7 +29,7 @@ const questions = [
         {
           type: 'input',
           name: 'contribution',
-          message: 'Who are the contributors',
+          message: 'Who are the contributors?',
         },
         {
           type: 'input',
